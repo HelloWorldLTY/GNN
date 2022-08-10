@@ -28,7 +28,7 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 
 * Tutorial8: [Graph Generation.](https://youtu.be/embpBq1gHAE)
 
-* Tutorial9: [Recurrent Graph Neural Networks.](https://youtu.be/v7TQ2DUoaBY) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial9/Tutorial9.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial9/RecGNN_tutorial.ipynb)
+* Tutorial9: [Recurrent Graph Neural Networks.](https://youtu.be/v7TQ2DUoaBY) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial9/Tutorial9.ipynb) 
 
 * Tutorial10: [DeepWalk and Node2Vec (Theory).](https://youtu.be/QZQBnl1QbCQ)
 
